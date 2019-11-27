@@ -1,1 +1,1 @@
-Simple programs developed on an online C++ IDE
+Simple programs developed to better understand basic algorithms
