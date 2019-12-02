@@ -1,1 +1,1 @@
-Simple programs developed to better understand basic algorithms
+Simple programs developed understand better basic algorithms
