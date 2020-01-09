@@ -12,7 +12,7 @@ public class Mario {
 		
 		//first let's read the image
 		try {
-			File inFile = new File("/Users/y.g/eclipse-workspace/Mario Brothers/src/mooncake.jpeg"); 
+			File inFile = new File("mario.jpeg"); //! use the right directory
 			//Create an image object
 			image = new BufferedImage(100,100, BufferedImage.TYPE_INT_ARGB);  //the first 2 parameters represent the width and height respectively
 			//reading the file
